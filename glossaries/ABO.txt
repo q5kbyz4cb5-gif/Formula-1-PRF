@@ -1,6 +1,7 @@
+版本号：1.5.1
+维护者：dq
+更新时间：2025-10-08
 
-
-通用词条
 通用词条
 //ABO
 Alpha：Alpha
@@ -28,6 +29,7 @@ Scent masking：气味覆盖
 scent cover：气味覆盖
 Mating：结合
 Bonding：交配
+Mate：伴侣
 Bondmate：伴侣
 Mpreg：生子
 Surprise heat：意外发情
