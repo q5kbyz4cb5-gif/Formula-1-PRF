@@ -17,6 +17,7 @@ George Russell = George Russell
 Gabriel Bortoleto = Gabriel Bortoleto
 Isack Hadjar =  Isack Hadjar
 Kevin Magnussen = Kevin Magnussen
+Kimi Antonelli = Kimi Antonelli
 Lewis Hamilton = Lewis Hamilton
 Lando Norris = Lando Norris
 Lance Stroll = Lance Stroll
