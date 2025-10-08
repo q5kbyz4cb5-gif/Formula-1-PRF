@@ -35,6 +35,11 @@ Zhou Guanyu = Zhou Guanyu
 Toto Wolff = Toto Wolff
 Peter Bonnington = Peter Bonnington
 
+//车队
+Red Bull Racing：红牛车队
+Alpine = Alpine
+Racing Bulls：小红牛
+
 通用词条
 //ABO
 Alpha：Alpha
