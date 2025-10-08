@@ -1,0 +1,84 @@
+版本号：1.5.1
+维护者：dq
+更新时间：2025-10-08
+
+词条
+
+//车手
+Alexander Albon = Alexander Albon
+Charles Leclerc = Charles Leclerc
+Carlos Sainz = Carlos Sainz
+Daniel Ricciardo = Daniel Ricciardo
+Esteban Ocon = Esteban Ocon
+Fernando Alonso = Fernando Alonso
+George Russell = George Russell
+Kevin Magnussen = Kevin Magnussen
+Lewis Hamilton = Lewis Hamilton
+Lando Norris = Lando Norris
+Lance Stroll = Lance Stroll
+Logan Sargeant = Logan Sargeant
+Max Verstappen = Max Verstappen
+Nico Hülkenberg = Nico Hülkenberg
+Oscar Piastri = Oscar Piastri
+Oliver Bearman = Oliver Bearman
+Pierre Gasly = Pierre Gasly
+Sergio Perez = Sergio Perez
+Valtteri Bottas = Valtteri Bottas
+Yuki Tsunoda = Yuki Tsunoda
+Zhou Guanyu = Zhou Guanyu
+
+通用词条
+//ABO
+Alpha：Alpha
+Alphas：Alphas
+Beta：Beta
+Betas：Betas
+Omega：Omega
+Omegas：Omegas
+Secondary gender：第二性别
+Presentation：分化
+Differentiation：分化
+Heat：发情期
+Rut：发情潮
+Heat services：发情期服务
+Rut services：发情潮服务
+Heat suppressant ：发情抑制剂
+Inhibitor：发情抑制剂
+Rut suppressant：发情潮抑制剂
+Mark / Marking：标记
+Permanent mark：永久标记
+Temporary mark：临时标记
+Pheromones：信息素
+Pheromone compatibility：信息素匹配
+Scent masking：气味覆盖
+scent cover：气味覆盖
+Mating：结合
+Bonding：交配
+Mate：伴侣
+Bondmate：伴侣
+Mpreg：生子
+Surprise heat：意外发情
+Unscheduled heat：意外发情
+Suppressants failure：抑制剂失效
+
+//F1
+Grid：发车区
+Track：赛道
+Circuit：赛道
+Pit lane：维修区
+Pit stop：维修站
+Line-up：赛车阵容
+Field：赛车阵容
+Season：赛季
+Grand Prix：分站赛
+GP：分站赛
+Championship standings：冠军积分榜
+Safety car：赛道安全车
+Qualifying：排位赛
+Race：正赛
+Main race：正赛
+Podium：领奖台
+Team：车队
+Constructor：车队
+Driver：车手
+DRS zone：进攻窗口
