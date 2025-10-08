@@ -45,7 +45,6 @@ Alpine = Alpine
 Racing Bulls：小红牛
 
 通用词条
-Mate：哥们
 //ABO
 Alpha：Alpha
 Alphas：Alphas
